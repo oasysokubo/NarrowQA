@@ -1,7 +1,6 @@
 ## QA-System
 
-Oasys Okubo
-Damen Birtola
+Oasys Okubo, Damen Birtola
 
 # Run
 1. python qa.py
