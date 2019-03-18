@@ -1,11 +1,11 @@
-#### QA-System
+## QA-System
 
 Oasys Okubo
 Damen Birtola
 
-## Run
+# Run
 1. python qa.py
 
 
-## Neccesary modules to run this prog
+# Neccesary modules to run this prog
 1. 
