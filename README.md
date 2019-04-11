@@ -5,6 +5,6 @@ Oasys Okubo, Damen Birtola
 # Run
 1. python qa.py
 
-
-# Neccesary modules to run this prog
-1. 
+Note:
+Anaconda virtual environment is used to run this program. In order to run this program, same environment
+must be used. 
