@@ -8,13 +8,15 @@ more efficient.
 
 ## Installation
 
+Install this repository by copying this code directly to a terminal:
+```bash
+git clone https://github.com/oasysokubo/QA-Sys.git
+```
+
 This project requires a few packages/modules:
 * NLTK
 * Word2Vec
 
-```bash
-git clone https://github.com/oasysokubo/QA-Sys.git
-```
 
 ## Usage
 Simply run the main program:
