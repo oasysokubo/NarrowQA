@@ -1,4 +1,4 @@
-# QA-System
+# NarrowQA
 BY Oasys Okubo & Damen Birtola
 
 This project is a Question-Answering application that answers factoid questions based on the given narrative text.
